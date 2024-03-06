@@ -161,11 +161,30 @@ in this company for 5 years.*)
 Conditionals refer to if–then constructions that express hypotheses and their
 potential consequences.
 
-- zero conditional
-- first conditional
-- second conditional
-- third conditional
-- mixed conditional
+- **zero conditional** – used for facts or general truths, where the outcome
+is always true if the condition is met; the structure is:  
+[if] + [present simple], [present simple] (e.g. *If water reaches 100 degrees
+Celsius, it boils.*)
+
+- **first conditional** – expresses a *possible* condition and its *probable*
+result in the future; the structure is:  
+[if] + [present simple], [will] + [base form of the verb] (e.g. *If the user
+enters incorrect login details, the system will display an error message.*)
+
+- **second conditional** – expresses situations that are hypothetical, imaginary
+or otherwise unlikely; the structure is:  
+[if] + [past simple], [would] + [base form of the verb] (e.g. *If I were a
+better software engineer, I would design a more efficient system.*)
+
+- **third conditional** – reflects on the past, imagining a different outcome
+from what actually happened, contradicting the past facts; the structure is:  
+[if] + [past perfect], [would have] + [past participle] (e.g. *If the programmer
+had written stronger tests, they would have caught the bug earlier.*)
+
+- **mixed conditional** – combines the second and third conditionals, reflecting
+a present result of an unreal past condition; the structure is:
+[if] + [past perfect], [would] + [base form of verb] (e.g. *If the development
+team had followed the project timeline, we would be ahead of schedule now.*)
 
 ## Phrasal verbs
 
