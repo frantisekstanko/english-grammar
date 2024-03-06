@@ -124,18 +124,37 @@ sentences (e.g. *by*, *about*, *for*)
 
 Tenses are used to express time in relation to the moment of speaking.
 
-- past simple
-- past continuous
-- past perfect
-- past perfect continuous
-- present simple
-- present continuous
-- present perfect
-- present perfect continuous
-- future simple
-- future continuous
-- future perfect
-- future perfect continuous
+- **past simple** – describes actions completed at a specific time before
+the present (e.g. *Yesterday, I debugged the application.*)
+- **past continuous** – indicates an ongoing action in the past, often
+occurring simultaneously with another event (e.g. *I was compiling when the
+system crashed.*)
+- **past perfect** – describes an action that was completed *before* another
+past action (e.g. *By the time the meeting started, I had pushed my commits.*)
+- **past perfect continuous** – indicates actions that were ongoing over
+a period in the past and completed by a certain point in the past (e.g.
+*I had been testing the application for hours before I identified the bug.*)
+- **present simple** – expresses general truths or habits (e.g. *I write code
+every day.*)
+- **present continuous** – indicates ongoing actions occurring at the moment
+of speaking (e.g. *I am performing a code review.*)
+- **present perfect** – describes an actions that occurred at an unspecified
+time in the past and have relevance to the present moment (e.g. *I have fixed
+the bug.*)
+- **present perfect continuous** – indicates actions that began in the past
+and continue to the present (e.g. *I have been working on this branch since
+last week.*)
+- **future simple** – expresses actions that will happen in the future (e.g.
+*I will push my commits tomorrow.*)
+- **future continuous** – indicates actions that will be ongoing at a specific
+time in the future (e.g. *At this time tomorrow, I will be helping my
+colleague.*)
+- **future perfect** – describes actions that will be completed *before*
+a certain point in the future (e.g. *By the end of the month, I will have
+completed my task.*)
+- **future perfect continuous** – indicates actions that will be ongoing until
+a specific point in the future (e.g. *By next year, I will have been working
+in this company for 5 years.*)
 
 ## Conditionals
 
