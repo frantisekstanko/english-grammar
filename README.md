@@ -11,6 +11,13 @@ Should others find this resource useful, I would be honored.
 - countable
 - uncountable
 
+## Pronouns
+
+- personal
+- possessive
+- reflexive
+- indefinite
+
 ## Tenses
 
 - past simple
