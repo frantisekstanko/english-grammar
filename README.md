@@ -31,6 +31,13 @@ Should others find this resource useful, I would be honored.
 - comparative
 - superlative
 
+## Prepositions
+
+- direction
+- location
+- time
+- agent
+
 ## Tenses
 
 - past simple
