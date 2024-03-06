@@ -51,3 +51,10 @@ Should others find this resource useful, I would be honored.
 - definite article
 - indefinite article
 - zero article
+
+## Adverbs
+
+- adverbs of manner
+- adverbs of frequency
+- adverbs of time
+- adverbs of place
