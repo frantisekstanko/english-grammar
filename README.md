@@ -204,8 +204,16 @@ fill out a form*, *to look forward to*, *to put up with*)
 
 ## Relative clauses
 
-- defining relative clauses
-- non-defining relative clauses
+Relative clauses are types of subordinate clauses used to provide additional
+information about a noun in the main clause.
+
+- **defining relative clauses** – clauses which are essential to the meaning
+of the sentence; without them, the sentence's meaning would be incomplete; they
+are not set off by commas (e.g. *We must improve the function that encrypts
+the data.*)
+- **non-defining relative clauses** – clauses which add extra, non-essential
+information, which is not needed to complete the meaning of the main sentence
+(e.g. *This feature, which was developed by John, has received good feedback.*)
 
 ## Articles
 
