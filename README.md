@@ -104,10 +104,14 @@ Prepositions are words that link nouns, pronouns, or phrases to other parts
 of a sentence, typically indicating relationships in terms of place, time,
 or direction.
 
-- direction
-- location
-- time
-- agent
+- **prepositions of direction** – indicate movement from one place to another
+(e.g. *across*, *along*, *behind*)
+- **prepositions of location** – indicate the place where something is located
+(e.g. *on*, *in*, *below*)
+- **prepositions of time** – denote the time something happens (e.g. *in*, *at*,
+*on*)
+- **prepositions of agent** – reveal the *doer* of an action in passive
+sentences (e.g. *by*, *about*, *for*)
 
 ## Tenses
 
