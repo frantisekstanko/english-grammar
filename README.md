@@ -80,6 +80,23 @@ of nouns (e.g. *efficient*, *user-friendly*)
 - **superlative adjectives** – indicate the highest level of a particular
 quality within a group of entities (e.g. *fastest algorithm*,
 *least secure protocol*)
+- **quantitative adjectives** – indicate the amount of nouns (e.g. *zero*,
+*one*, *multiple*, *much*)
+- **demonstrative adjectives** – specify which nouns we're talking about,
+differentiating between things that are near or further away (e.g. *this*,
+*those*, *that*)
+- **possessive adjectives** – denote ownership (e.g. *my*, *your*, *their*)
+- **interrogative adjectives** – modify nouns in questions (e.g. *which*,
+*what*, *whose*)
+- **distributive adjectives** – refer to members of a group separately (e.g.
+*each*, *every*, *either*)
+- **indefinite adjectives** – give general, non-specific information about
+the noun (e.g. *some*, *any*, *few*)
+- **ordinal adjectives** – express the position of a noun in a sequence
+(e.g. *first*, *second*, *third*)
+- **proper adjectives** – derived from proper nouns, these adjectives describe
+a particular thing associated with a specific person or a place and are
+therefore always capitalized (e.g. *Agile methodology*, *Linux-based system*)
 
 ## Prepositions
 
