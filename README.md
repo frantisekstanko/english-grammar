@@ -69,6 +69,10 @@ to complete their meaning; the action remains with the subject (e.g. *agree*,
 
 ## Adjectives
 
+Adjectives are words that modify or describe attributes of nouns, providing
+additional information about their quantity, quality, size, condition,
+or origin.
+
 - descriptive
 - comparative
 - superlative
