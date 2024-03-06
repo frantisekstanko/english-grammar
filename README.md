@@ -114,3 +114,12 @@ Should others find this resource useful, I would be honored.
 
 - active
 - passive
+
+## Other
+
+- subjunctive mood
+- idiomatic expressions
+- adverb placement
+- interjections
+- quantifiers
+- order of adjectives
