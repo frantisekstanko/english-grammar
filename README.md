@@ -73,9 +73,13 @@ Adjectives are words that modify or describe attributes of nouns, providing
 additional information about their quantity, quality, size, condition,
 or origin.
 
-- descriptive
-- comparative
-- superlative
+- **descriptive adjectives** – describe the qualities or states
+of nouns (e.g. *efficient*, *user-friendly*)
+- **comparative adjectives** – compare two entities (e.g. *faster*,
+*more efficient*)
+- **superlative adjectives** – indicate the highest level of a particular
+quality within a group of entities (e.g. *fastest algorithm*,
+*least secure protocol*)
 
 ## Prepositions
 
