@@ -199,6 +199,8 @@ can be separated (e.g. *back up the data*, *back the data up*)
 - **inseparable transitive phrasal verbs** – require an object, which cannot
 separate the verb and particle (e.g. *look into a bug*, never ~~*look a
 bug into*~~)
+- **three-part phrasal verbs** – verbs followed by two particles (e.g. *to
+fill out a form*, *to look forward to*, *to put up with*)
 
 ## Relative clauses
 
