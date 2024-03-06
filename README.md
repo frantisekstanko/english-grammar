@@ -33,6 +33,8 @@ express a single concept (e.g. *source code*, *command line*)
 
 ## Pronouns
 
+Pronouns are words used to replace nouns, thereby avoiding repetition.
+
 - personal
 - possessive
 - reflexive
