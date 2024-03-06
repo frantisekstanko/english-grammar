@@ -188,6 +188,10 @@ team had followed the project timeline, we would be ahead of schedule now.*)
 
 ## Phrasal verbs
 
+Phrasal verbs are combinations of verbs with one or more particles,
+typically prepositions or adverbs, which take on unique meanings distinct from
+the original verb.
+
 - intransitive phrasal verbs
 - separable transitive phrasal verbs
 - inseparable transitive phrasal verbs
