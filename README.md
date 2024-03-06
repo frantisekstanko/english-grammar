@@ -15,6 +15,17 @@ to unique entities (e.g. *Joseph*, *New York*, *Eiffel Tower*, *Linux*)
 - **uncountable nouns** – nouns that do not (typically) have a plural form
 (e.g. *software*, *information*, *water*); a unit of measurement can be added
 to quantify these nouns (e.g. *a piece of information*, *a bottle of water*)
+- **abstract nouns** – nouns representing ideas, qualities or conditions
+that cannot be perceived by the human senses (e.g. *freedom*, *justice*,
+*complexity*, *efficiency*)
+- **concrete nouns** – opposite of abstract nouns; pointing to things that
+you can either see, hear, touch, smell or taste (e.g. *monitor*)
+- **collective nouns** – nouns referring to a group of individuals or things
+(e.g. *family*, *team*, *array*)
+- **compound nouns** – nouns made up of two or more words that together
+express a single concept (e.g. *source code*, *command line*)
+- **possessive nouns** – nouns indicating ownership or possession (e.g.
+*application's performance*, *system's architecture*)
 
 ## Pronouns
 
