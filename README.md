@@ -84,3 +84,9 @@ Should others find this resource useful, I would be honored.
 - adverbs of frequency
 - adverbs of time
 - adverbs of place
+
+## Conjuctions
+
+- coordinating
+- subordinating
+- correlative
