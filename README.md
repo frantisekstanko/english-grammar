@@ -35,10 +35,14 @@ express a single concept (e.g. *source code*, *command line*)
 
 Pronouns are words used to replace nouns, thereby avoiding repetition.
 
-- personal
-- possessive
-- reflexive
-- indefinite
+- **personal pronouns** – pronouns representing specific people or things (e.g. *he*,
+*she*, *it*)
+- **possessive pronouns** – pronouns indicating possession (e.g. *his*, *hers*)
+- **reflexive pronouns** – pronouns used when the subject and the object of the sentence
+are the same entity, indicating that an action is performed on oneself
+(e.g. *myself*, *himself*, *herself*)
+- **indefinite pronouns** – pronouns refering to non-specific persons or things, used
+when the exact identity is unknown or irrelevant (e.g. *someone*)
 
 ## Verbs
 
