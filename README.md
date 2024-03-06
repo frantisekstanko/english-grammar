@@ -18,3 +18,11 @@ Should others find this resource useful, I would be honored.
 - future continuous
 - future perfect
 - future perfect continuous
+
+## Modal verbs
+
+- can / could
+- may / might
+- shall / should
+- will / would
+- must
