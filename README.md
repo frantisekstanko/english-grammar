@@ -100,6 +100,10 @@ therefore always capitalized (e.g. *Agile methodology*, *Linux-based system*)
 
 ## Prepositions
 
+Prepositions are words that link nouns, pronouns, or phrases to other parts
+of a sentence, typically indicating relationships in terms of place, time,
+or direction.
+
 - direction
 - location
 - time
