@@ -60,6 +60,12 @@ phrases that convey tense, mood or voice (e.g. *be*, *have*, *do*)
 - **modal verbs** – verbs conveying attitudes about the action indicated
 by the main verb; a necessity, possibility, permission or ability (e.g. *can*,
 *must*, *should*)
+- **transitive verbs** – action verbs that require a direct object to complete
+their meaning; the action of the verb is transferred to the object (e.g.
+*update*, *remove*)
+- **intransitive verbs** – action verbs that do not require a direct object
+to complete their meaning; the action remains with the subject (e.g. *agree*,
+*skip*)
 
 ## Adjectives
 
