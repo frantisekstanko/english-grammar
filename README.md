@@ -85,8 +85,13 @@ Should others find this resource useful, I would be honored.
 - adverbs of time
 - adverbs of place
 
-## Conjuctions
+## Conjunctions
 
 - coordinating
 - subordinating
 - correlative
+
+## Clauses
+
+- main (independent)
+- subordinate (dependent)
