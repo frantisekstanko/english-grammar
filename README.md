@@ -102,3 +102,10 @@ Should others find this resource useful, I would be honored.
 - compound
 - complex
 - compound-complex
+
+## Purposes of sentences
+
+- declarative
+- interrogative
+- imperative
+- exclamatory
