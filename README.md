@@ -112,6 +112,13 @@ or direction.
 *on*)
 - **prepositions of agent** – reveal the *doer* of an action in passive
 sentences (e.g. *by*, *about*, *for*)
+- **prepositions of manner** – indicate *how* a certain action was performed
+(e.g. *via* the command line)
+- **prepositions of instrument** – indicate the *tool* used to perform an action
+(e.g. *with* scissors)
+- **prepositions of purpose** – indicate the purpose of an action (e.g.
+*through*, *beyond*)
+- **prepositions of possession** – indicate ownership (*of*, *with* and *to*)
 
 ## Tenses
 
