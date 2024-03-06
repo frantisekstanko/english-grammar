@@ -26,3 +26,11 @@ Should others find this resource useful, I would be honored.
 - shall / should
 - will / would
 - must
+
+## Conditionals
+
+- zero conditional
+- first conditional
+- second conditional
+- third conditional
+- mixed conditional
