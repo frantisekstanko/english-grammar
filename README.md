@@ -158,6 +158,9 @@ in this company for 5 years.*)
 
 ## Conditionals
 
+Conditionals refer to if–then constructions that express hypotheses and their
+potential consequences.
+
 - zero conditional
 - first conditional
 - second conditional
