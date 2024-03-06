@@ -34,3 +34,9 @@ Should others find this resource useful, I would be honored.
 - second conditional
 - third conditional
 - mixed conditional
+
+## Phrasal verbs
+
+- intransitive phrasal verbs
+- separable transitive phrasal verbs
+- inseparable transitive phrasal verbs
