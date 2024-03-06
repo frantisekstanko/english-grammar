@@ -46,6 +46,10 @@ when the exact identity is unknown or irrelevant (e.g. *someone*)
 
 ## Verbs
 
+Verbs are words that express actions, occurrences, or states of being.
+They provide crucial information about what the subject is doing
+or the situation the subject is in.
+
 - action
 - linking
 - auxiliary
