@@ -122,6 +122,8 @@ sentences (e.g. *by*, *about*, *for*)
 
 ## Tenses
 
+Tenses are used to express time in relation to the moment of speaking.
+
 - past simple
 - past continuous
 - past perfect
