@@ -6,10 +6,15 @@ Should others find this resource useful, I would be honored.
 
 ## Nouns
 
-- common
-- proper
-- countable
-- uncountable
+- **common nouns** – general names for persons, places or things (e.g. *man*,
+*city*, *function*, *database*)
+- **proper nouns** – specific names of people, places or things, pointing
+to unique entities (e.g. *Joseph*, *New York*, *Eiffel Tower*, *Linux*)
+- **countable nouns** – nouns that allow for quantification (e.g.
+*one variable*, *two variables*)
+- **uncountable nouns** – nouns that do not (typically) have a plural form
+(e.g. *software*, *information*, *water*); a unit of measurement can be added
+to quantify these nouns (e.g. *a piece of information*, *a bottle of water*)
 
 ## Pronouns
 
