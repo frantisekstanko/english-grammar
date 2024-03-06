@@ -25,6 +25,12 @@ Should others find this resource useful, I would be honored.
 - auxiliary
 - modal
 
+## Adjectives
+
+- descriptive
+- comparative
+- superlative
+
 ## Tenses
 
 - past simple
