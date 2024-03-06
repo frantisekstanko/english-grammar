@@ -18,6 +18,13 @@ Should others find this resource useful, I would be honored.
 - reflexive
 - indefinite
 
+## Verbs
+
+- action
+- linking
+- auxiliary
+- modal
+
 ## Tenses
 
 - past simple
@@ -32,14 +39,6 @@ Should others find this resource useful, I would be honored.
 - future continuous
 - future perfect
 - future perfect continuous
-
-## Modal verbs
-
-- can / could
-- may / might
-- shall / should
-- will / would
-- must
 
 ## Conditionals
 
