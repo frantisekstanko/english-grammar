@@ -95,3 +95,10 @@ Should others find this resource useful, I would be honored.
 
 - main (independent)
 - subordinate (dependent)
+
+## Types of sentences
+
+- simple
+- compound
+- complex
+- compound-complex
