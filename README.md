@@ -109,3 +109,8 @@ Should others find this resource useful, I would be honored.
 - interrogative
 - imperative
 - exclamatory
+
+## Voice
+
+- active
+- passive
