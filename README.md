@@ -77,6 +77,8 @@ that have duration (e.g. *run*, *speak*)
 - **impersonal verbs** – verbs not referring to a specific subject but rather
 expressing actions or states related to time, distances, weather or natural
 forces (e.g. *it rains, it seems*)
+- **regular verbs** – form their past forms by adding *-ed*
+- **irregular verbs** – have separate past forms (e.g. *go → went*)
 
 ## Adjectives
 
