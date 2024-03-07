@@ -241,10 +241,18 @@ nowadays.*)
 
 ## Adverbs
 
-- adverbs of manner
-- adverbs of frequency
-- adverbs of time
-- adverbs of place
+
+Adverbs are primarily used to modify verbs, adjectives, or other adverbs.
+They provide additional information about how, when, where, and to what extent
+an action is performed.
+
+- **adverbs of manner** – describe the way in which something is done (e.g.
+*quickly*)
+- **adverbs of frequency** – express how often an action occurs (e.g.
+*frequently*)
+- **adverbs of time** – describe the timing of an action (e.g. *nightly*,
+*weekly*)
+- **adverbs of place** – describe the location of an action (e.g. *remotely*)
 
 ## Conjunctions
 
