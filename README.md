@@ -318,8 +318,12 @@ a conversation (e.g. *Goodbye!*)
 
 ## Voice
 
-- active
-- passive
+- **active** – in active voice, the subject performs the action expressed by
+the verb (e.g. *The programmer writes the code.*)
+- **passive** – passive voice emphasizes the action being done to the subject
+or the subject receiving the action; the doer, if mentioned, comes after the
+action, introduced by the preposition *by* (e.g. *The code is being written
+by Joseph.*)
 
 ## Other
 
