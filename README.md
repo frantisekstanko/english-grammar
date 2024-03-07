@@ -70,6 +70,8 @@ to complete their meaning; the action remains with the subject (e.g. *agree*,
 of verbs with one or more particles, typically prepositions or adverbs,
 which take on unique meanings distinct from the original verb (e.g. *to put
 up with*)
+- **stative verbs** – describe a state or condition, often relating to thoughts,
+emotions, senses or states of being (e.g. *believe*, *love*, *know*)
 
 ## Adjectives
 
