@@ -241,7 +241,6 @@ nowadays.*)
 
 ## Adverbs
 
-
 Adverbs are primarily used to modify verbs, adjectives, or other adverbs.
 They provide additional information about how, when, where, and to what extent
 an action is performed.
