@@ -253,6 +253,12 @@ an action is performed.
 - **adverbs of time** – describe the timing of an action (e.g. *nightly*,
 *weekly*)
 - **adverbs of place** – describe the location of an action (e.g. *remotely*)
+- **adverbs of degree** – describe the degree of an action, adjective, or
+another adverb (e.g. *nearly*)
+- **adverbs of probability** – indicate the likelihood of an action happening
+(e.g. *possibly*)
+- **adverbs of affirmation and negation** – confirm or deny the action of the
+verb (e.g. *certainly*)
 
 ## Conjunctions
 
