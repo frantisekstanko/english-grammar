@@ -308,10 +308,13 @@ a conversation (e.g. *Goodbye!*)
 
 ## Purposes of sentences
 
-- declarative
-- interrogative
-- imperative
-- exclamatory
+- **declarative** – sentences that make a statement or express a fact (e.g.
+*This function returns a JSON object.*)
+- **interrogative** – questions requesting information or clarification (e.g.
+*Does the API support GET requests?*)
+- **imperative** – commands or requests (e.g. *Execute the script.*)
+- **exclamatory** – expressions of strong emotion or excitement (e.g.
+*Incredible performance boost!*)
 
 ## Voice
 
