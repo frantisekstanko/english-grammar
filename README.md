@@ -275,8 +275,15 @@ passes, or the issue goes back to progress.*)
 
 ## Clauses
 
-- main (independent)
-- subordinate (dependent)
+Clauses typically contain a subject and a predicate, the former being the
+actor in the sentence and the latter describing the action or state of being. 
+
+- **main (independent) clauses** – are capable of standing alone as complete
+sentences because they express a complete thought (e.g. *The program compiles
+successfully.*)
+- **subordinate (dependent) clauses** – depend on each other, as both provide
+information needed to form a complete sentence (e.g. *Although we are doing
+our best, we are behind schedule.*)
 
 ## Types of sentences
 
