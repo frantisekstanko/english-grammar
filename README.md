@@ -74,6 +74,9 @@ parts (e.g. *look up, bring about, break down*)
 emotions, senses or states of being (e.g. *believe*, *love*, *know*)
 - **dynamic verbs** – opposite of stative verbs, dynamic verbs describe actions
 that have duration (e.g. *run*, *speak*)
+- **impersonal verbs** – verbs not referring to a specific subject but rather
+expressing actions or states related to time, distances, weather or natural
+forces (e.g. *it rains, it seems*)
 
 ## Adjectives
 
