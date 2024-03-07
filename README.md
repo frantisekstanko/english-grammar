@@ -72,6 +72,8 @@ the meaning of a phrasal verb can be different from the meanings of its separate
 parts (e.g. *look up, bring about, break down*)
 - **stative verbs** – describe a state or condition, often relating to thoughts,
 emotions, senses or states of being (e.g. *believe*, *love*, *know*)
+- **dynamic verbs** – opposite of stative verbs, dynamic verbs describe actions
+that have duration (e.g. *run*, *speak*)
 
 ## Adjectives
 
