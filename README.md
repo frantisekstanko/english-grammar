@@ -138,7 +138,7 @@ a period in the past and completed by a certain point in the past (e.g.
 every day.*)
 - **present continuous** – indicates ongoing actions occurring at the moment
 of speaking (e.g. *I am performing a code review.*)
-- **present perfect** – describes an actions that occurred at an unspecified
+- **present perfect** – describes actions that occurred at an unspecified
 time in the past and have relevance to the present moment (e.g. *I have fixed
 the bug.*)
 - **present perfect continuous** – indicates actions that began in the past
