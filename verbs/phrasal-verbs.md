@@ -1,8 +1,9 @@
 # Phrasal verbs
 
-Phrasal verbs are combinations of verbs with one or more particles,
-typically prepositions or adverbs, which take on unique meanings distinct from
-the original verb.
+Phrasal verbs are expressions that combine a verb with a preposition or adverb
+(or both) and function as a single semantic unit. The meaning of a phrasal verb
+can be different from the meanings of its separate parts (e.g. *look up,
+bring about, break down*).
 
 - **intransitive phrasal verbs** – do not require an object to complete their
 meaning (e.g. *shut down*)

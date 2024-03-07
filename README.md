@@ -66,10 +66,10 @@ their meaning; the action of the verb is transferred to the object (e.g.
 - **intransitive verbs** – action verbs that do not require a direct object
 to complete their meaning; the action remains with the subject (e.g. *agree*,
 *skip*)
-- [**phrasal verbs**](verbs/phrasal-verbs.md) – phrasal verbs are combinations
-of verbs with one or more particles, typically prepositions or adverbs,
-which take on unique meanings distinct from the original verb (e.g. *to put
-up with*)
+- [**phrasal verbs**](verbs/phrasal-verbs.md) – expressions that combine a verb
+with a preposition or adverb (or both) and function as a single semantic unit;
+the meaning of a phrasal verb can be different from the meanings of its separate
+parts (e.g. *look up, bring about, break down*)
 - **stative verbs** – describe a state or condition, often relating to thoughts,
 emotions, senses or states of being (e.g. *believe*, *love*, *know*)
 
