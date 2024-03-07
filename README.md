@@ -262,9 +262,14 @@ verb (e.g. *certainly*)
 
 ## Conjunctions
 
-- coordinating
-- subordinating
-- correlative
+Conjunctions connect words, phrases, or clauses.
+
+- **coordinating conjunctions** – link similar elements (e.g. *The code compiles, but
+does not execute.*)
+- **subordinating conjunctions** – connect an independent clause with a dependent clause
+(e.g. *Although the code application runs quickly, it consumes much memory.*)
+- **correlative conjunctions** – link equal elements (e.g. *Either the test suite
+passes, or the issue goes back to progress.*)
 
 ## Clauses
 
