@@ -213,7 +213,7 @@ mentioned or is common knowledge. (e.g. *The compiler generated an error.*)
 - **indefinite article** – *a* or *an* – used to refer to non-specific nouns
 that are being mentioned for the first time, or whose exact identity is not
 important, or unknown (e.g. *We need a software developer for this task.*)
-- **zero article** – used with plural and uncountable nouns when referring
+- **zero article** – used with plural or uncountable nouns when referring
 to them in a general sense (e.g. *Software engineers are in high demand
 nowadays.*)
 
