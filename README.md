@@ -270,6 +270,8 @@ does not execute.*)
 (e.g. *Although the code application runs quickly, it consumes much memory.*)
 - **correlative conjunctions** – link equal elements (e.g. *Either the test suite
 passes, or the issue goes back to progress.*)
+- **conjunctive adverbs** – link independent clauses to show cause and effect
+(e.g. *therefore*, *likewise*, *otherwise*, *furthermore*)
 
 ## Clauses
 
