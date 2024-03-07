@@ -66,6 +66,10 @@ their meaning; the action of the verb is transferred to the object (e.g.
 - **intransitive verbs** – action verbs that do not require a direct object
 to complete their meaning; the action remains with the subject (e.g. *agree*,
 *skip*)
+- [**phrasal verbs**](verbs/phrasal-verbs.md) – phrasal verbs are combinations
+of verbs with one or more particles, typically prepositions or adverbs,
+which take on unique meanings distinct from the original verb (e.g. *to put
+up with*)
 
 ## Adjectives
 
@@ -185,22 +189,6 @@ had written stronger tests, they would have caught the bug earlier.*)
 a present result of an unreal past condition; the structure is:
 [if] + [past perfect], [would] + [base form of verb] (e.g. *If the development
 team had followed the project timeline, we would be ahead of schedule now.*)
-
-## Phrasal verbs
-
-Phrasal verbs are combinations of verbs with one or more particles,
-typically prepositions or adverbs, which take on unique meanings distinct from
-the original verb.
-
-- **intransitive phrasal verbs** – do not require an object to complete their
-meaning (e.g. *shut down*)
-- **separable transitive phrasal verbs** – require an object, by which they
-can be separated (e.g. *back up the data*, *back the data up*)
-- **inseparable transitive phrasal verbs** – require an object, which cannot
-separate the verb and particle (e.g. *look into a bug*, never ~~*look a
-bug into*~~)
-- **three-part phrasal verbs** – verbs followed by two particles (e.g. *to
-fill out a form*, *to look forward to*, *to put up with*)
 
 ## Articles
 
