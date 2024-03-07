@@ -80,6 +80,16 @@ forces (e.g. *it rains, it seems*)
 - **regular verbs** – form their past forms by adding *-ed*
 - **irregular verbs** – have separate past forms (e.g. *go → went*)
 
+## Subject
+
+Subject is the person or thing that performs the action described by the verb,
+or the person or thing that the sentence is about.
+
+## Object
+
+Object is the person or thing that receives the action of the verb.
+It is the entity that is affected by the action.
+
 ## Adjectives
 
 Adjectives are words that modify or describe attributes of nouns, providing
