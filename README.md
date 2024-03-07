@@ -202,28 +202,6 @@ bug into*~~)
 - **three-part phrasal verbs** – verbs followed by two particles (e.g. *to
 fill out a form*, *to look forward to*, *to put up with*)
 
-## Relative clauses
-
-Relative clauses are types of subordinate clauses used to provide additional
-information about a noun in the main clause.
-
-- **defining relative clauses** – clauses which are essential to the meaning
-of the sentence; without them, the sentence's meaning would be incomplete; they
-are not set off by commas (e.g. *We must improve the function that encrypts
-the data.*)
-- **non-defining relative clauses** – clauses which add extra, non-essential
-information, which is not needed to complete the meaning of the main sentence
-(e.g. *This feature, which was developed by John, has received good feedback.*)
-- **reduced relative clauses** – defining or non-defining relative clauses
-where the relative pronoun and the auxiliary verb are omitted
-(e.g. *The algorithm running the process is highly efficient.*)
-- **contact clauses** – defining relative clauses where the relative pronoun
-is omitted (e.g. *The software engineer we hired last month has already made
-significant contributions.*)
-- **relative clauses with prepositions** – clauses where the preposition is
-placed at the beginning of the relative clause (e.g. *The database to which
-the application connects is highly secure.*)
-
 ## Articles
 
 Articles are words that define a noun as specific or unspecific.
@@ -283,9 +261,9 @@ successfully.*)
 - **subordinate (dependent) clauses** – depend on each other, as both provide
 information needed to form a complete sentence (e.g. *Although we are doing
 our best, we are behind schedule.*)
-- **relative (adjective) clauses** – provide additional information about
-a noun or pronoun in the sentence (e.g. *This feature, which was developed by
-John, has received good feedback.*)
+- [**relative (adjective) clauses**](clauses/relative-clauses.md) – provide
+additional information about a noun or pronoun in the sentence (e.g. *This
+feature, which was developed by John, has received good feedback.*)
 - **noun clauses** – act as the subject, object, or complement in a sentence,
 performing the function of a noun (e.g. *What she said at the meeting was
 surprising.*)
