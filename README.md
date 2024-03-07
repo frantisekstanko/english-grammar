@@ -209,6 +209,12 @@ a present result of an unreal past condition; the structure is:
 [if] + [past perfect], [would] + [base form of verb] (e.g. *If the development
 team had followed the project timeline, we would be ahead of schedule now.*)
 
+### Inversion of conditionals
+
+In the inversion of conditionals, the word *if* is eliminated and the subject
+and auxiliary verb are inverted, akin to forming a question (e.g. *Had the
+programmer written stronger tests, they would have caught the bug earlier.*)
+
 ## Articles
 
 Articles are words that define a noun as specific or unspecific.
