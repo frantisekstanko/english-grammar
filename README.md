@@ -10,7 +10,7 @@ Nouns are words used to identify people, places, things, or ideas.
 They serve as the subjects or objects within sentences,
 encapsulating everything from concrete entities to abstract concepts.
 
-- **common nouns** – general names for persons, places or things (e.g. *man*,
+- **common nouns** – general names for people, places or things (e.g. *man*,
 *city*, *function*, *database*)
 - **proper nouns** – specific names of people, places or things, pointing
 to unique entities (e.g. *Joseph*, *New York*, *Eiffel Tower*, *Linux*)
