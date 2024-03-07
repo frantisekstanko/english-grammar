@@ -270,10 +270,17 @@ surprising.*)
 
 ## Types of sentences
 
-- simple
-- compound
-- complex
-- compound-complex
+- **simple sentence** – one independent clause without any subordinate
+clauses; has a subject, a predicate, and expresses a complete thought (e.g.
+*The function works correctly.*)
+- **compound sentence** – two independent clauses with related ideas of equal
+importance (e.g. *The developer writes the code, and the machine executes it.*)
+- **complex sentence** – one independent clause and at least one dependent
+clause (e.g. *If the user inputs invalid data, the program displays an error
+message.*)
+- **compound-complex sentence** – at least two independent clauses and at least
+one dependent clause (e.g. *The software passes all tests, but when it
+encounters unexpected inputs, it fails to function properly.*)
 
 ## Purposes of sentences
 
