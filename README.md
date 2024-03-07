@@ -284,6 +284,12 @@ successfully.*)
 - **subordinate (dependent) clauses** – depend on each other, as both provide
 information needed to form a complete sentence (e.g. *Although we are doing
 our best, we are behind schedule.*)
+- **relative (adjective) clauses** – provide additional information about
+a noun or pronoun in the sentence (e.g. *This feature, which was developed by
+John, has received good feedback.*)
+- **noun clauses** – act as the subject, object, or complement in a sentence,
+performing the function of a noun (e.g. *What she said at the meeting was
+surprising.*)
 
 ## Types of sentences
 
