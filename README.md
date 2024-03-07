@@ -289,6 +289,23 @@ message.*)
 one dependent clause (e.g. *The software passes all tests, but when it
 encounters unexpected inputs, it fails to function properly.*)
 
+## Interjections
+
+Words or phrases that express strong emotion or surprise.
+
+- **primary interjections** – words that function solely as interjections
+with no other grammatical purpose (e.g. *Wow!, Oops!*
+- **secondary interjections** – words borrowed from other parts of speech that
+serve temporarily as interjections (e.g. *Great!, Well..., No way!*)
+- **vocative interjections** – words used to call or summon someone
+(e.g. *Hey, John... Excuse me, sir...*)
+- **exclamatory interjections** – words that express strong emotion
+(e.g. *Fantastic!*)
+- **greeting interjections** – words used in social interactions to greet
+or acknowledge others (e.g. *Hello! Good morning!*)
+- **farewell interjections** – words used when parting from someone or ending
+a conversation (e.g. *Goodbye!*)
+
 ## Purposes of sentences
 
 - declarative
@@ -306,6 +323,5 @@ encounters unexpected inputs, it fails to function properly.*)
 - subjunctive mood
 - idiomatic expressions
 - adverb placement
-- interjections
 - quantifiers
 - order of adjectives
