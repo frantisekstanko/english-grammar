@@ -370,7 +370,16 @@ a great deal of, a large amount of*)
 - **universal quantifiers** – can be used with both countable and uncountable
 nouns and denote complete inclusion or exclusion (e.g. *all, every, no, none*)
 
+## Order of adjectives
 
-## Other
-
-- order of adjectives
+1) **quantity**
+2) **opinion**
+3) **size**
+4) **physical quality**
+5) **shape**
+6) **age**
+7) **color**
+8) **origin**
+9) **material**
+10) **type**
+11) **purpose**
