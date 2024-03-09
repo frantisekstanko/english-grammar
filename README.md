@@ -383,3 +383,30 @@ nouns and denote complete inclusion or exclusion (e.g. *all, every, no, none*)
 9) **material**
 10) **type**
 11) **purpose**
+
+## Figures of speech
+
+- **metaphor** – figure of speech that makes na implicit, implied or hidden
+comparison between two unrelated things (e.g. *This new database is the backbone
+of our application.*)
+- **simile** – figure of speech that compares two different things using
+the words *like* or *as* (e.g. *Debugging this code is like looking for a needle
+in a haystack.*)
+- **alliteration** – repetition of the same initial consonant sound in a series
+of words (e.g. *Software solutions significantly streamline system setup.*)
+- **hyperbole** – exaggerated statement or claim not meant to be taken literally
+(e.g. *It would take an eternity to process data this large without optimizing
+our algorithms.*)
+- **personification** – attribution of a personal nature or human
+characteristics to something non-human, or the representation of an abstract
+quality in human form (e.g. *The server is exhausted from handling thousands
+of requests per second.*)
+- **irony** – stating something in a way that is the opposite of what is
+expected (e.g. *After coding for 12 hours straight to fix the bug, the solution
+was to restart the system.*)
+- **oxymoron** – figure of speech in which apparently contradictory terms
+appear in conjunction (e.g. *This is clearly a minor catastrophe in our coding
+convention.*)
+- **euphemism** – polite, indirect expression that replaces words and phrases
+considered impolite (e.g. *The software is not responsive; it's just taking
+a break.*)
