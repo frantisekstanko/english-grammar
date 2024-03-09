@@ -361,7 +361,16 @@ Idiomatic expressions are phrases whose meanings cannot be understood from
 the literal interpretation of the words (e.g. *go down the rabbit hole,
 reinvent the wheel, back to the drawing board*)
 
+## Quantifiers
+
+- **quantifiers for countable nouns** (e.g. *many, few, a few, several,
+a couple of, numerous*)
+- **quantifiers for uncountable nouns** (e.g. *much, little, a bit of,
+a great deal of, a large amount of*)
+- **universal quantifiers** – can be used with both countable and uncountable
+nouns and denote complete inclusion or exclusion (e.g. *all, every, no, none*)
+
+
 ## Other
 
-- quantifiers
 - order of adjectives
