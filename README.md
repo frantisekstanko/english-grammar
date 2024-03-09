@@ -347,9 +347,14 @@ hypothetical scenarios (e.g. *I would travel if I had more time.*)
 tense, mood, or aspect (e.g. *To optimize the algorithm, one must analyze its
 complexity and resource consumption.*)
 
+## Idiomatic expressions
+
+Idiomatic expressions are phrases whose meanings cannot be understood from
+the literal interpretation of the words (e.g. *go down the rabbit hole,
+reinvent the wheel, back to the drawing board*)
+
 ## Other
 
-- idiomatic expressions
 - adverb placement
 - quantifiers
 - order of adjectives
