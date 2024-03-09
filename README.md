@@ -237,18 +237,26 @@ They provide additional information about how, when, where, and to what extent
 an action is performed.
 
 - **adverbs of manner** – describe the way in which something is done (e.g.
-*quickly*)
+*quickly*); are placed directly after the verb they modify (.e.g *The system
+operates efficiently.*)
 - **adverbs of frequency** – express how often an action occurs (e.g.
-*frequently*)
+*frequently*); are placed before the main verb, but after auxiliary verbs
+(e.g. *The function always returns a value.*)
 - **adverbs of time** – describe the timing of an action (e.g. *nightly*,
-*weekly*)
-- **adverbs of place** – describe the location of an action (e.g. *remotely*)
+*weekly*); are placed at the end of the sentence
+- **adverbs of place** – describe the location of an action (e.g. *remotely*);
+are placed at the end of the sentence
 - **adverbs of degree** – describe the degree of an action, adjective, or
-another adverb (e.g. *nearly*)
+another adverb (e.g. *nearly*); usually precede the word they are modifying
 - **adverbs of probability** – indicate the likelihood of an action happening
-(e.g. *possibly*)
+(e.g. *possibly*); are placed before the main verb, but after auxiliary verbs
 - **adverbs of affirmation and negation** – confirm or deny the action of the
-verb (e.g. *certainly*)
+verb (e.g. *certainly*); are generally placed before the main verb, but after
+the verb "to be" or modal verbs
+
+In sentences with multiple verbs, adverbs can be placed after the first
+auxiliary verb or at the end of the sentence, depending on emphasis.
+(e.g. *The program can easily modify the file.*)
 
 ## Conjunctions
 
@@ -355,6 +363,5 @@ reinvent the wheel, back to the drawing board*)
 
 ## Other
 
-- adverb placement
 - quantifiers
 - order of adjectives
