@@ -331,9 +331,24 @@ or the subject receiving the action; the doer, if mentioned, comes after the
 action, introduced by the preposition *by* (e.g. *The code is being written
 by Joseph.*)
 
+## Moods
+
+- **indicative mood** — used to state facts, ask questions, or express opinions
+as if they were facts (e.g. *She writes every day.*)
+- **imperative mood** – used for commands, instructions, requests,
+or suggestions (e.g. *Please close the door.*)
+- **subjunctive mood** – used for wishes, hypothetical situations, demands,
+or conditions contrary to fact (e.g. *If I were a better software engineer,
+the tests would be more stable.*)
+- **conditional mood** – utilizes auxiliary verbs to create conditions and
+hypothetical scenarios (e.g. *I would travel if I had more time.*)
+- **interrogative mood** – used for questions (e.g. *Do you know the time?*)
+- **infinitive mood** – basic form of the verb without inflection to indicate
+tense, mood, or aspect (e.g. *To optimize the algorithm, one must analyze its
+complexity and resource consumption.*)
+
 ## Other
 
-- subjunctive mood
 - idiomatic expressions
 - adverb placement
 - quantifiers
