@@ -410,3 +410,20 @@ convention.*)
 - **euphemism** – polite, indirect expression that replaces words and phrases
 considered impolite (e.g. *The software is not responsive; it's just taking
 a break.*)
+
+## Paragraph structure
+
+A well-structured paragraph presents one main idea, supported by sentences that
+enhance understanding and engagement:
+
+1) **topic sentence** – presents the main idea of the paragraph;
+this sentence sets the direction and tone
+
+2) **supporting sentences** – several sentences that elaborate on the main idea,
+providing details, explanations, examples, or evidence
+
+3) **analysis or evaluation** – connects the details to the main idea,
+explaining their relevance or implications
+
+4) **concluding sentence** – summarizes the main idea and provides a transition
+to the next paragraph, if necessary
