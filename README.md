@@ -50,7 +50,7 @@ Verbs are words that express actions, occurrences, or states of being.
 They provide crucial information about what the subject is doing
 or the situation the subject is in.
 
-- **action verbs** – verbs expressing visible (physical) or conceputal (mental)
+- **action verbs** – verbs expressing visible (physical) or conceptual (mental)
 actions (e.g. *write*, *walk*, *estimate*)
 - **linking verbs** – verbs connecting the subject of the sentence to a subject
 complement (noun or adjective), which describes the subject (e.g. the
