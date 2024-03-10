@@ -209,6 +209,10 @@ a present result of an unreal past condition; the structure is:
 [if] + [past perfect], [would] + [base form of verb] (e.g. *If the development
 team had followed the project timeline, we would be ahead of schedule now.*)
 
+Note: Mixed conditionals can be complex and exhibit considerable variation in
+structure. They often mix time references, combining unreal past conditions
+with present or future outcomes.
+
 ### Inversion of conditionals
 
 In the inversion of conditionals, the word *if* is eliminated and the subject
