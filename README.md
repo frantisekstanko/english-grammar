@@ -177,7 +177,7 @@ a certain point in the future (e.g. *By the end of the month, I will have
 completed my task.*)
 - **future perfect continuous** – indicates actions that will be ongoing until
 a specific point in the future (e.g. *By next year, I will have been working
-in this company for 5 years.*)
+in this company for five years.*)
 
 ## Conditionals
 
