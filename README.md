@@ -147,18 +147,18 @@ sentences (e.g. *by*, *about*, *for*)
 
 Tenses are used to express time in relation to the moment of speaking.
 
-- **past simple** – describes actions completed at a specific time before
-the present (e.g. *Yesterday, I debugged the application.*)
-- **past continuous** – indicates an ongoing action in the past, often
-occurring simultaneously with another event (e.g. *I was compiling when the
-system crashed.*)
-- **past perfect** – describes an action that was completed *before* another
-past action (e.g. *By the time the meeting started, I had pushed my commits.*)
-- **past perfect continuous** – indicates actions that were ongoing over
-a period in the past and completed by a certain point in the past (e.g.
+- **past simple** – describes actions that were completed at a specific time
+in the past (e.g. *Yesterday, I debugged the application.*)
+- **past continuous** – indicates ongoing actions that were happening at a
+particular moment in the past. (e.g. *I was compiling when the system crashed.*)
+- **past perfect** – describes an action that had been completed before another
+action occurred in the past (e.g. *By the time the meeting started, I had
+already pushed my commits.*)
+- **past perfect continuous** – indicates actions that had been ongoing over
+a period in the past and were completed by a certain point in the past (e.g.
 *I had been testing the application for hours before I identified the bug.*)
-- **present simple** – expresses general truths or habits (e.g. *I write code
-every day.*)
+- **present simple** – expresses general truths, habits or routines (e.g.
+*I write code every day.*)
 - **present continuous** – indicates ongoing actions occurring at the moment
 of speaking (e.g. *I am performing a code review.*)
 - **present perfect** – describes actions that occurred at an unspecified
