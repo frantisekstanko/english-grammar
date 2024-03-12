@@ -112,8 +112,8 @@ differentiating between things that are near or further away (e.g. *this*,
 *those*, *that*)
 - **possessive adjectives** – denote ownership (*my, your, his, her, its, our,
 their*)
-- **interrogative adjectives** – modify nouns in questions (e.g. *which*,
-*what*, *whose*)
+- **interrogative adjectives** – modify nouns in questions (*which*, *what*,
+*whose*)
 - **distributive adjectives** – refer to members of a group separately (e.g.
 *each*, *every*, *either*)
 - **indefinite adjectives** – give general, non-specific information about
