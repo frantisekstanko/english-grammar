@@ -10,26 +10,28 @@ Nouns are words used to identify people, places, things, or ideas.
 They serve as the subjects or objects within sentences,
 encapsulating everything from concrete entities to abstract concepts.
 
-- **common nouns** – general names for people, places or things (e.g. *man*,
-*city*, *function*, *database*)
+- **common nouns** – general names for people, places or things (e.g.
+*developer, algorithm, module, interface*)
 - **proper nouns** – specific names of people, places or things, pointing
-to unique entities (e.g. *Joseph*, *New York*, *Eiffel Tower*, *Linux*)
+to unique entities (e.g. *Linus Torvalds, Silicon Valley, GitHub, Python*)
 - **countable nouns** – nouns that allow for quantification (e.g.
-*one variable*, *two variables*)
+*one thread, two repositories, three servers*)
 - **uncountable nouns** – nouns that do not (typically) have a plural form
-(e.g. *software*, *information*, *water*); a unit of measurement can be added
-to quantify these nouns (e.g. *a piece of information*, *a bottle of water*)
+(e.g. *documentation, data, bandwidth*); a unit of measurement can be added
+to quantify these nouns (e.g. *a block of code, a bit of data, a segment
+of bandwidth*)
 - **abstract nouns** – nouns representing ideas, qualities or conditions
 that cannot be perceived by the human senses (e.g. *freedom*, *justice*,
 *complexity*, *efficiency*)
 - **concrete nouns** – opposite of abstract nouns; pointing to things that
-you can either see, hear, touch, smell or taste (e.g. *monitor*)
+you can either see, hear, touch, smell or taste (e.g. *keyboard, processor,
+motherboard*)
 - **collective nouns** – nouns referring to a group of individuals or things
-(e.g. *family*, *team*, *array*)
+(e.g. *family*, *team*, *array*, *dataset*)
 - **compound nouns** – nouns made up of two or more words that together
-express a single concept (e.g. *source code*, *command line*)
+express a single concept (e.g. *source code*, *command line*, *binary tree*)
 - **possessive nouns** – nouns indicating ownership or possession (e.g.
-*application's performance*, *system's architecture*)
+*application's performance*, *system's architecture*, *program's output*)
 
 ## Pronouns
 
