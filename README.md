@@ -108,8 +108,8 @@ quality within a group of entities (e.g. *fastest algorithm*,
 - **quantitative adjectives** – indicate the amount of nouns (e.g. *zero*,
 *one*, *multiple*, *much*)
 - **demonstrative adjectives** – specify which nouns we're talking about,
-differentiating between things that are near or further away (e.g. *this*,
-*those*, *that*)
+differentiating between things that are near (*this* for singular, *these*
+for plural) or further away (*that* for singular, *those* for plural)
 - **possessive adjectives** – denote ownership (*my, your, his, her, its, our,
 their*)
 - **interrogative adjectives** – modify nouns in questions (*which*, *what*,
