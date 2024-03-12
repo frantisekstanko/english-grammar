@@ -43,7 +43,7 @@ Pronouns are words used to replace nouns, thereby avoiding repetition.
 - [**reflexive pronouns**](pronouns/reflexive-pronouns.md) – pronouns used when the subject and the object of the sentence
 are the same entity, indicating that an action is performed on oneself
 (e.g. *myself*, *himself*, *herself*)
-- **indefinite pronouns** – pronouns referring to nonspecific persons or things, used
+- [**indefinite pronouns**](pronouns/indefinite-pronouns.md) – pronouns referring to nonspecific persons or things, used
 when the exact identity is unknown or irrelevant (e.g. *someone*)
 
 ## Verbs
