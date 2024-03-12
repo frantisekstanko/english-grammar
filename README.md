@@ -105,8 +105,8 @@ of nouns (e.g. *efficient*, *user-friendly*)
 - **superlative adjectives** – indicate the highest level of a particular
 quality within a group of entities (e.g. *fastest algorithm*,
 *least secure protocol*)
-- **quantitative adjectives** – indicate the amount of nouns (e.g. *zero*,
-*one*, *multiple*, *much*)
+- [**quantitative adjectives**](adjectives/quantitative-adjectives.md) –
+indicate the amount of nouns (e.g. *zero*, *one*, *multiple*, *much*)
 - **demonstrative adjectives** – specify which nouns we're talking about,
 differentiating between things that are near (*this* for singular, *these*
 for plural) or further away (*that* for singular, *those* for plural)
