@@ -274,14 +274,19 @@ auxiliary verb or at the end of the sentence, depending on emphasis.
 
 Conjunctions connect words, phrases, or clauses.
 
-- **coordinating conjunctions** – link similar elements (e.g. *The code compiles, but
-does not execute.*)
-- **subordinating conjunctions** – connect an independent clause with a dependent clause
-(e.g. *Although the code application runs quickly, it consumes much memory.*)
-- **correlative conjunctions** – link equal elements (e.g. *Either the test suite
-passes, or the issue goes back to progress.*)
+- **coordinating conjunctions** – link similar elements (*for, and, nor, but,
+or, yet, so*)
+- **subordinating conjunctions** – connect an independent clause with
+a dependent clause (e.g. *after, although, as, because, before, even if,
+even though, if, in order that, once, provided that, since, so that, than,
+that, though, unless, until, when, whenever, where, whereas, wherever, while*)
+- **correlative conjunctions** – link equal elements (*both...and, either...or,
+neither...nor, not only...but also, whether...or, as...as, such...that,
+so...that*)
 - **conjunctive adverbs** – link independent clauses to show cause and effect
-(e.g. *therefore*, *likewise*, *otherwise*, *furthermore*)
+(*accordingly, also, besides, consequently, furthermore, hence, however, indeed,
+instead, meanwhile, moreover, nevertheless, otherwise, similarly, still,
+subsequently, therefore, thus, then, thereupon*)
 
 ## Clauses
 
