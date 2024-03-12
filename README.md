@@ -115,7 +115,7 @@ their*)
 - **interrogative adjectives** – modify nouns in questions (*which*, *what*,
 *whose*)
 - **distributive adjectives** – refer to members of a group separately (e.g.
-*each*, *every*, *either*)
+*each*, *every*, *any*, *either*, *neither*)
 - **indefinite adjectives** – give general, non-specific information about
 the noun (e.g. *some*, *any*, *few*)
 - **ordinal adjectives** – express the position of a noun in a sequence
