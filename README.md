@@ -117,7 +117,8 @@ their*)
 - **distributive adjectives** – refer to members of a group separately (e.g.
 *each*, *every*, *any*, *either*, *neither*)
 - **indefinite adjectives** – give general, non-specific information about
-the noun (e.g. *some*, *any*, *few*)
+the noun (*some, any, several, few, fewer, many, much, more, most, a lot of,
+a lots of, a little, less, a few, enough*)
 - **ordinal adjectives** – express the position of a noun in a sequence
 (e.g. *first*, *second*, *third*)
 - **proper adjectives** – derived from proper nouns, these adjectives describe
