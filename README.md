@@ -37,7 +37,7 @@ express a single concept (e.g. *source code*, *command line*, *binary tree*)
 
 Pronouns are words used to replace nouns, thereby avoiding repetition.
 
-- **personal pronouns** – pronouns representing specific people or things (e.g. *he*,
+- [**personal pronouns**](pronouns/personal-pronouns.md) – pronouns representing specific people or things (e.g. *he*,
 *she*, *it*)
 - **possessive pronouns** – pronouns indicating possession (e.g. *his*, *hers*)
 - **reflexive pronouns** – pronouns used when the subject and the object of the sentence
