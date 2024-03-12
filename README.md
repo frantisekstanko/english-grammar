@@ -40,7 +40,7 @@ Pronouns are words used to replace nouns, thereby avoiding repetition.
 - [**personal pronouns**](pronouns/personal-pronouns.md) – pronouns representing specific people or things (e.g. *he*,
 *she*, *it*)
 - [**possessive pronouns**](pronouns/possessive-pronouns.md) – pronouns indicating possession (e.g. *his*, *hers*)
-- **reflexive pronouns** – pronouns used when the subject and the object of the sentence
+- [**reflexive pronouns**](pronouns/reflexive-pronouns.md) – pronouns used when the subject and the object of the sentence
 are the same entity, indicating that an action is performed on oneself
 (e.g. *myself*, *himself*, *herself*)
 - **indefinite pronouns** – pronouns referring to nonspecific persons or things, used
