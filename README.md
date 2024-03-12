@@ -130,20 +130,24 @@ of a sentence, typically indicating relationships in terms of place, time,
 or direction.
 
 - **prepositions of direction** – indicate movement from one place to another
-(e.g. *across*, *along*, *behind*)
+(*to, through, into, toward, onto, from, off, out of, past, up, down, over,
+under, around, across, along, through, towards, after, before, behind, beside,
+between, beyond, by*)
 - **prepositions of location** – indicate the place where something is located
-(e.g. *on*, *in*, *below*)
-- **prepositions of time** – denote the time something happens (e.g. *in*, *at*,
-*on*)
+(*at, on, in, by, next to, beside, near, among, between, against, underneath,
+beneath, below, above, over, inside, outside, on top of, in front of, behind*)
+- **prepositions of time** – denote the time something happens (*at, on, in, by,
+before, after, during, until, since, from, to, past, within, throughout, over,
+under*)
 - **prepositions of agent** – reveal the *doer* of an action in passive
-sentences (e.g. *by*, *about*, *for*)
+sentences (*by*, *about*, *for*, *with*)
 - **prepositions of manner** – indicate *how* a certain action was performed
-(e.g. *via* the command line)
+(*by, with, in, on, like, as, in the manner of, via, through*)
 - **prepositions of instrument** – indicate the *tool* used to perform an action
-(e.g. *with* scissors)
-- **prepositions of purpose** – indicate the purpose of an action (e.g.
-*through*, *beyond*)
-- **prepositions of possession** – indicate ownership (*of*, *with* and *to*)
+(*with, by, on, using, through, via*)
+- **prepositions of purpose** – indicate the purpose of an action (*for, to,
+in order to, so as to, for the purpose of*)
+- **prepositions of possession** – indicate ownership (*of*, *with*, *to*)
 
 ## Tenses
 
