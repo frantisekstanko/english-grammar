@@ -110,7 +110,8 @@ quality within a group of entities (e.g. *fastest algorithm*,
 - **demonstrative adjectives** – specify which nouns we're talking about,
 differentiating between things that are near or further away (e.g. *this*,
 *those*, *that*)
-- **possessive adjectives** – denote ownership (e.g. *my*, *your*, *their*)
+- **possessive adjectives** – denote ownership (*my, your, his, her, its, our,
+their*)
 - **interrogative adjectives** – modify nouns in questions (e.g. *which*,
 *what*, *whose*)
 - **distributive adjectives** – refer to members of a group separately (e.g.
