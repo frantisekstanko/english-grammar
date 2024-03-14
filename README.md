@@ -1,10 +1,11 @@
 # English grammar
 
-I am composing this document to improve my understanding of the English
-language.
-Should others find this resource useful, I would be honored.
+Welcome to this comprehensive guide on English grammar, tailored for learners
+at all levels. This document aims to improve your grasp of English through
+a clear, concise exploration of its grammatical structures.
 
-Issues or pull requests are welcome.
+Your contributions and feedback are highly valued; please feel free to initiate
+discussions or propose enhancements through issues or pull requests.
 
 ## Nouns
 
